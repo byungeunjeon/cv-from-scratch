@@ -1,4 +1,4 @@
-# Computer Vision from Scratch with NumPy
+# Computer Vision from Scratch
 
 prerequisites: Python3, NumPy, Pytorch
 
