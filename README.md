@@ -11,5 +11,9 @@ prerequisites: Python3, NumPy, Pytorch
 #### 4. Semantic Segmentation
 - Hypercolumn, transfer learning, etc
 
-## Visualization Results
+## Visualization Examples
+
+Image Stitching
+
+Semantic Segmentation
 
