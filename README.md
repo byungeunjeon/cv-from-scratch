@@ -2,10 +2,10 @@
 
 prerequisites: Python3, NumPy, Pytorch
 
-1. Canny Edge Detector
-2. Image Stitching
-3. Classification
-4. Semantic Segmentation
+1. Canny Edge Detector (Sobel gradient, non-max suppression, edge linking, etc)
+2. Image Stitching (feature descriptor, Approximately Nearest Neighbor, Hough voting, etc)
+3. Classification (CNN, ResNet, etc)
+4. Semantic Segmentation (Hypercolumn, transfer learning, etc)
 
 ## Visualization Results
 
