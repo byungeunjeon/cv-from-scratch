@@ -15,5 +15,12 @@ prerequisites: Python3, NumPy, Pytorch
 
 Image Stitching
 
+![st](https://github.com/byungeunjeon/cv-from-scratch/blob/master/viz_examples/match_0.2_naive.png)
+
+![st2](https://github.com/byungeunjeon/cv-from-scratch/blob/master/viz_examples/overlay.png)
+
 Semantic Segmentation
 
+![ss1](https://github.com/byungeunjeon/cv-from-scratch/blob/master/viz_examples/8-1.png)
+
+![ss2](https://github.com/byungeunjeon/cv-from-scratch/blob/master/viz_examples/7-3.png)
