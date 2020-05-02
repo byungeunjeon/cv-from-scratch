@@ -7,9 +7,9 @@ prerequisites: Python3, NumPy, Pytorch
 #### 2. Image Stitching
 - Feature descriptor, approximately nearest neighbor, Hough voting, etc
 #### 3. Classification
-- CNN, ResNet, etc
+- Layers for deep learning, CNN, ResNet, etc
 #### 4. Semantic Segmentation
-- Hypercolumn, transfer learning, etc
+- Hypercolumns pipeline, transfer learning, etc
 
 ## Visualization Examples
 
